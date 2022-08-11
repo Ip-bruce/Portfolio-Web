@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0; 
+    
+}
+body
+{
+    
+    background-color: #0f134f;
+}
+.container1
+{
+    display: flex; 
+}
+.container2
+{
+    margin-top: 2vh;
+    display: flex; 
+    text-align: left;
+     margin-left: 2vw;
+}
+
+.leftpanel
+{
+    background-color: #3A41E4; 
+    width: 20vw;
+    height: 125vh;
+    margin-left: 20.5vw;
+}
+.rightpanel{
+
+    background-color: #ECECEC;
+     width:35vw;
+     height: 125vh;
+}
+
+h1{
+     font-family: 'League Spartan', sans-serif;
+     text-align: left; 
+     margin-left: 2vw;
+     font-size:65px;
+     font-weight: 700;
+     color: #3A41E4;
+}
+
+hr{
+    background-color: rgb(25, 89, 239);
+     width: 25vw;
+     height: 0.5vh; 
+     border: 0ch;
+     text-align: left;
+      margin-left: 2vw;
+}
+
+h2{
+    margin-top: 2vh;
+    color: #3A41E4;
+    text-align: left; 
+    margin-left: 2vw;
+    font-size: 25px; 
+    font-family: 'League Spartan', sans-serif;
+}
+h3
+{
+    color: #3A41E4;   
+    font-family: 'League Spartan', sans-serif;
+}
+
+p{
+    color: #3A41E4;
+    font-family: 'Space Mono', sans-serif;
+}
+.sec1 h1
+{
+    margin-top: 4vh;
+}
+.sec1 h2
+{
+    font-family: "Space Mono", sans-serif;
+}
+.psec2
+{
+    font-family: 'Space Mono', sans-serif;
+    text-align: left;
+     margin-left: 2vw;
+}
+.experiencia 
+{
+   margin-top: 3.2vh;
+}
+.experiencia h3
+{
+    font-size: 21px;
+}
+
+.experiencia p
+{
+
+}
+.historico
+{
+    margin-top: 5vh;
+}
+.ifba-r
+{
+    margin-right: 2.3vw;
+    text-align: center;
+}
+.ifba-r p
+{
+    font-size: 15px
+}
+ 
+
+.list{
+    color: #3A41E4;
+    font-family: 'Space Mono', sans-serif;
+    text-align: left;
+    margin-left: 2vw;
+}
+
+
+.contatos
+{
+
+}
+.contatos h2
+{
+    color: #ECECEC;
+    margin-left:1vw;
+    font-family: "Space Mono",sans-serif;
+     font-size: 35px;
+}
+
+.whatsapp
+{
+    margin-bottom: 3vh;
+}
+.whatsapp p
+{
+    margin-left: 1.5vw;
+
+    color:#ECECEC;
+    font-family: "Space Mono",sans-serif;
+}
+.Email
+{
+    margin-bottom: 3vh;
+}
+.Instagram
+{
+    margin-bottom: 3vh;
+}
+.Portfolio
+{
+    margin-bottom: 3vh;
+}
+.LinkedIn
+{
+    margin-bottom: 3vh;
+}
+.GitHub
+{
+    margin-bottom: 3vh;
+}
